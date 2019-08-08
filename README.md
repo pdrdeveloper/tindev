@@ -1,2 +1,2 @@
-# tindev
-An app with React developed in OmnistackWeek
+# Tindev
+An app with React developed in OmnistackWeek.
